@@ -104,7 +104,7 @@ html,body{
       </div>
       <p class="bio">💻 Developer | Tool | MMO | DarkStack 💕</p>
       <div class="actions">
-        <a class="btn" id="cta" href="https://www.facebook.com/haomundev" target="_blank" rel="noopener">LIÊN HỆ</a>
+        <a class="btn" id="cta" href="https://www.facebook.com/HungDuong.support" target="_blank" rel="noopener">LIÊN HỆ</a>
         <button class="btn" id="toggleMusicBtn" aria-pressed="true">🔊 Tắt nhạc</button>
       </div>
     </section>
@@ -121,7 +121,7 @@ html,body{
       <div class="grid">
       
         <a class="tile" href="https://www.facebook.com/HungDuong.support" target="_blank" rel="noopener">📘 <strong>Facebook</strong></a>
-        <a class="tile" href="https://zalo.me/0559705922" target="_blank" rel="noopener">💬 <strong>Zalo</strong></a>
+        <a class="tile" href="https://zalo.me/0374815337" target="_blank" rel="noopener">💬 <strong>Zalo</strong></a>
         <a class="tile" href="#">✉ <strong>Email</strong></a>
         <a class="tile" href="#" id="copyMail">📎 <strong>Copy Email</strong></a>
         <a class="tile" href="#" id="copyPhone">📞 <strong>Copy Phone</strong></a>
