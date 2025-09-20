@@ -105,7 +105,7 @@ html,body{
       <p class="bio">💻 Developer | Tool | MMO | DarkStack 💕</p>
       <div class="actions">
         <a class="btn" id="cta" href="https://www.facebook.com/HungDuong.support" target="_blank" rel="noopener">LIÊN HỆ</a>
-        <button class="btn" id="toggleMusicBtn" aria-pressed="true">🔊 Tắt nhạc</button>
+        <button class="btn" id="toggleMusicBtn" aria-pressed="true">🔊 Lên nhạc</button>
       </div>
     </section>
 
